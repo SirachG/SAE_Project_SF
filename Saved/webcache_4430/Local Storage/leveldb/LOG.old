@@ -1,0 +1,15 @@
+2026/10/28-11:31:30.225 525c Reusing MANIFEST E:/SAE_Project_SF/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/10/28-11:31:30.239 525c Recovering log #3
+2026/10/28-11:31:30.240 525c Reusing old log E:/SAE_Project_SF/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/10/28-12:23:58.260 de4 Level-0 table #5: started
+2026/10/28-12:23:58.358 de4 Level-0 table #5: 64097 bytes OK
+2026/10/28-12:23:58.391 de4 Delete type=0 #3
+2026/10/28-13:03:52.700 569c Level-0 table #7: started
+2026/10/28-13:03:52.772 569c Level-0 table #7: 62242 bytes OK
+2026/10/28-13:03:52.800 569c Delete type=0 #4
+2026/10/28-15:16:54.757 242c Level-0 table #9: started
+2026/10/28-15:16:54.871 242c Level-0 table #9: 70958 bytes OK
+2026/10/28-15:16:54.898 242c Delete type=0 #6
+2026/10/28-15:38:31.371 1998 Level-0 table #11: started
+2026/10/28-15:38:31.448 1998 Level-0 table #11: 69906 bytes OK
+2026/10/28-15:38:31.505 1998 Delete type=0 #8

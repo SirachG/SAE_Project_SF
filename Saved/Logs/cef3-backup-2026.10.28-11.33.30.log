@@ -1,0 +1,45 @@
+[1028/113131.066:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1028/113131.066:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[1028/113131.066:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[1028/113131.066:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[1028/113131.066:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[1028/113131.066:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[1028/113131.066:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[1028/113131.066:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[1028/113131.067:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1028/113131.067:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1028/113131.067:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1028/113131.067:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1028/113131.069:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[1028/113131.157:WARNING:stun_port.cc(450)] Port[aa455600:0:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.157:WARNING:stun_port.cc(450)] Port[aa456100:1:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.157:WARNING:stun_port.cc(450)] Port[aa456c00:2:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.157:WARNING:stun_port.cc(450)] Port[aa455600:0:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.158:WARNING:stun_port.cc(450)] Port[aa456100:1:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.158:WARNING:stun_port.cc(450)] Port[aa456c00:2:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.158:WARNING:stun_port.cc(450)] Port[aa455600:0:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.158:WARNING:stun_port.cc(450)] Port[aa456100:1:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.158:WARNING:stun_port.cc(450)] Port[aa456c00:2:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.528:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1028/113131.528:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[1028/113131.528:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[1028/113131.528:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[1028/113131.528:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[1028/113131.528:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[1028/113131.529:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[1028/113131.529:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[1028/113131.529:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1028/113131.529:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1028/113131.529:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1028/113131.529:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1028/113131.529:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[1028/113131.658:WARNING:stun_port.cc(450)] Port[20c46100:0:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.658:WARNING:stun_port.cc(450)] Port[20c46100:0:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.658:WARNING:stun_port.cc(450)] Port[20c46100:0:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.660:WARNING:stun_port.cc(450)] Port[20c46c00:1:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.660:WARNING:stun_port.cc(450)] Port[20c46c00:1:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.660:WARNING:stun_port.cc(450)] Port[20c46c00:1:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.660:WARNING:stun_port.cc(450)] Port[20c47700:2:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.660:WARNING:stun_port.cc(450)] Port[20c47700:2:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113131.660:WARNING:stun_port.cc(450)] Port[20c47700:2:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1028/113330.100:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
